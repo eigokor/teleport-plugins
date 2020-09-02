@@ -1,4 +1,4 @@
-# slack
+# teleport-slack
 
 This package implements a simple Slack plugin using the API provided in the
 [`access`](../) package which allows Access Requests to be approved/denied via
